@@ -1,0 +1,15 @@
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\bin\Debug\net8.0\Car-Parking.exe
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\bin\Debug\net8.0\Car-Parking.deps.json
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\bin\Debug\net8.0\Car-Parking.runtimeconfig.json
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\bin\Debug\net8.0\Car-Parking.dll
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\bin\Debug\net8.0\Car-Parking.pdb
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.AssemblyInfoInputs.cache
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.AssemblyInfo.cs
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.csproj.CoreCompileInputs.cache
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.sourcelink.json
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.dll
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\refint\Car-Parking.dll
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.pdb
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\Car-Parking.genruntimeconfig.cache
+C:\Users\levan\source\repos\LevanNamicheishvili\Car-Parking\Car-Parking\obj\Debug\net8.0\ref\Car-Parking.dll
