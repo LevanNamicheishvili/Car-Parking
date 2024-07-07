@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levan\\source\\repos\\LevanNamicheishvili\\Car-Parking\\Car-Parking\\Car-Parking.csproj",
+      "projectUniqueName": "C:\\Users\\levan\\Source\\Repos\\LevanNamicheishvili\\Car-Parking\\Car-Parking.csproj",
       "projectName": "Car-Parking",
-      "projectPath": "C:\\Users\\levan\\source\\repos\\LevanNamicheishvili\\Car-Parking\\Car-Parking\\Car-Parking.csproj",
+      "projectPath": "C:\\Users\\levan\\Source\\Repos\\LevanNamicheishvili\\Car-Parking\\Car-Parking.csproj",
       "packagesPath": "C:\\Users\\levan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\levan\\source\\repos\\LevanNamicheishvili\\Car-Parking\\Car-Parking\\obj\\",
+      "outputPath": "C:\\Users\\levan\\Source\\Repos\\LevanNamicheishvili\\Car-Parking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
